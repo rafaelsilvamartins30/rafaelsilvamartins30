@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Silva Martins. 👋
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/your-username) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-martins-716625320/)
 
 Welcome to my GitHub profile! I am  developer and student of information systems at UFLA (Federal University of Lavras) passionate about technology, and solving problems.
 
