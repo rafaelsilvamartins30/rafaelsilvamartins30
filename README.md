@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I am a developer and student of information system
 
 Here are some of the technologies and tools I master or am currently learning:
 
-- **Front-End**: CSS, HTML, JavaScript, React, TypeScript
-- **Back-End**: C++
-- **Tools and Frameworks:** Git
+- **Front-End**: ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- **Back-End**: ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- **Tools and Frameworks:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - **Others**: Desktop hardware maintenance and assembly.
 
 ---
@@ -43,6 +43,11 @@ If you want to exchange ideas, collaborate on projects, or simply have a chat, f
 
 ---
 
-Thank you for visiting my profile! :blush:
+![Cute Cat GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+### Contribution Snake
+
+![Snake animation](https://github.com/rafaelsilvamartins30/rafaelsilvamartins30/blob/output/github-contribution-grid-snake.svg)
+
+Thank you for visiting my profile! :blush:
 
