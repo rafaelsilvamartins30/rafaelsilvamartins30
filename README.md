@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I am  developer and student of information systems
 
 ## :man_technologist: About Me
 
-- ✍️ **Who I am:** A brief description about you.
-- :telescope: **Currently working on: .
-- :seedling: **Learning:** [technologies, skills, or tools you are currently learning].
+- ✍️ **Who I am:** I'm Rafael, a charismatic, empathetic and human guy, very resilient, hardworking and willing, I have many dreams and goals and I intend to complete them.
+- :telescope: **Currently working on**: UFLA junior company trainee process: Emakers Jr.
+- :seedling: **Learning:** I'm learning about programming logic, front-end development, and having my first contact with the job market in the area.
 
 ---
 
@@ -27,9 +27,9 @@ Here are some of the technologies and tools I master or am currently learning:
 
 ## :books: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsilvamartins30_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsilvamartins30&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvamartins30=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvamartins30&layout=compact&theme=radical)
 
 ---
 
@@ -37,7 +37,7 @@ Here are some of the technologies and tools I master or am currently learning:
 
 If you want to exchange ideas, collaborate on projects, or simply have a chat, feel free to reach out:
 
-- **E-mail:** rafel.sm008@gmail.com
+- **E-mail:** rafael.sm008@gmail.com
 - **LinkedIn:** Rafael Martins(https://www.linkedin.com/in/rafael-martins-716625320/)
 
 ---
