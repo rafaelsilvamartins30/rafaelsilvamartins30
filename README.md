@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a developer and student of information system
 
 ## :man_technologist: About Me
 
-- ✍️ **Who I am:** I'm Rafael, a charismatic, empathetic and human guy, very resilient, hardworking and willing, I have many dreams and goals and I intend to complete them.
+- ✍️ **Who am I:** I'm Rafael, a charismatic, empathetic and human guy, very resilient, hardworking and willing, I have many dreams and goals and I intend to complete them.
 - :telescope: **Currently working on**: UFLA junior company trainee process: Emakers Jr.
 - :seedling: **Learning:** I'm learning about programming logic, front-end development, and having my first contact with the job market in the area.
 
