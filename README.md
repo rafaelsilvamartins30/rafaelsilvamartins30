@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student maj
 
 ## :man_technologist: About Me
 
-- ✍️ **Who am I?** I'm a social, empathetic guy. Therefore, very much qualified for teamworking and often achieving great results, as I also am remarkable for my hardwork and willpower. Fulfilling my dreams is my main objective and they are what make me strive to be the best version of myself.
+- ✍️ **Who am I?** I'm a social, empathetic guy. Therefore, very much qualified for teamworking and often achieving great results, as I also am remarkable for my hardwork and willpower. Fulfilling my dreams honestly is my main objective and they are what make me strive to be the best version of myself.
 - :telescope: **Currently working on**: E-makers Jr. (UFLA´s junior company trainee)
 - :seedling: **Learning:** As a student, I´m still learning about logic programming and front-end development. I long for growing an extensive contact network and having bigger and greater opportunities at the labor market.
 
