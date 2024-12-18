@@ -1,8 +1,8 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Rafael Silva Martins 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/seu-usuario) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario) [![Portfolio Badge](https://img.shields.io/badge/-Portf%C3%B3lio-orange?style=flat)](https://seuportfolio.com)
 
-Bem-vindo ao meu perfil do GitHub! Sou um(a) **[sua profissão ou área de atuação]** apaixonado(a) por **tecnologia**, **código** e **resolver problemas criativos**.
+Bem-vindo ao meu perfil do GitHub! Sou um(a) estudante de sistemas de informação na UFLA(Universidade Federal de Lavras) apaixonado(a) por tecnologia, resolver problemas.
 
 ---
 
