@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rsmartins.30)
 
-Welcome to my GitHub profile! Im Rafa, a part-time developer, and a student majoring in information systems at the Federal University of Lavras (UFLA), passionate about technology and problem solving.
+Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student majoring in information systems at the Federal University of Lavras (UFLA), passionate about technology and problem solving.
 
 ---
 
