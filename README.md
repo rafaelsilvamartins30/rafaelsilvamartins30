@@ -45,5 +45,9 @@ If you want to exchange ideas, collaborate on projects, or simply have a chat, f
 
 ---
 
+![Snake animation](https://github.com/rafaelsilvamartins30/rafaelsilvamartins30/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 Thank you for visiting my profile! :blush:
 
