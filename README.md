@@ -43,9 +43,6 @@ If you want to exchange ideas, collaborate on projects, or simply have a chat, f
 
 ![Typing Cat GIF](https://i.gifer.com/7IjS.gif)
 
----
-
-![Snake animation](https://github.com/rafaelsilvamartins30/rafaelsilvamartins30/github-contribution-grid-snake.svg)
 
 ---
 
