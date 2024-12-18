@@ -1,60 +1,45 @@
-# Olá, eu sou Rafael Silva Martins 👋
+# Hello, I'm Rafael Silva Martins. 👋
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/seu-usuario) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario) [![Portfolio Badge](https://img.shields.io/badge/-Portf%C3%B3lio-orange?style=flat)](https://seuportfolio.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/your-username) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-username)
 
-Bem-vindo ao meu perfil do GitHub! Sou um(a) estudante de sistemas de informação na UFLA(Universidade Federal de Lavras) apaixonado(a) por tecnologia, resolver problemas.
-
----
-
-## :man_technologist: Sobre mim
-
-- ✍️ **Quem sou:** Uma breve descrição sobre você.
-- :telescope: **Atualmente trabalhando em:** [seu projeto atual ou área de estudo].
-- :seedling: **Aprendendo:** [tecnologias, habilidades ou ferramentas que você está aprendendo].
-- :speech_balloon: **Adoro conversar sobre:** [temas de seu interesse, como IA, open-source, desenvolvimento web, etc.].
-- :mailbox: **Contato:** [seu email ou outra forma de contato].
+Welcome to my GitHub profile! I am  developer and student of information systems at UFLA (Federal University of Lavras) passionate about technology, and solving problems.
 
 ---
 
-## :computer: Tecnologias e Ferramentas
+## :man_technologist: About Me
 
-Aqui estão algumas das tecnologias e ferramentas que domino ou estou aprendendo:
-
-- **Linguagens:** [JavaScript, Python, Java, etc.]
-- **Frameworks:** [React, Django, etc.]
-- **Ferramentas:** [Git, Docker, VSCode, etc.]
-- **Outros:** [qualquer outra habilidade ou tecnologia, como bancos de dados ou metodologias ágeis].
+- ✍️ **Who I am:** A brief description about you.
+- :telescope: **Currently working on: .
+- :seedling: **Learning:** [technologies, skills, or tools you are currently learning].
 
 ---
 
-## :sparkles: Projetos em destaque
+## :computer: Technologies and Tools
 
-Aqui estão alguns dos meus projetos mais relevantes:
+Here are some of the technologies and tools I master or am currently learning:
 
-- **[Nome do Projeto 1](https://github.com/seu-usuario/projeto-1):** Uma breve descrição do que o projeto faz.
-- **[Nome do Projeto 2](https://github.com/seu-usuario/projeto-2):** Uma breve descrição do que o projeto faz.
-- **[Mais projetos...](https://github.com/seu-usuario?tab=repositories)**
-
----
-
-## :books: Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+- **Front-End**: CSS, HTML, JavaScript, React, TypeScript
+- **Back-End**: C++
+- **Tools and Frameworks:** Git
+- **Others**: Desktop hardware maintenance and assembly.
 
 ---
 
-## :handshake: Vamos conectar?
+## :books: GitHub Stats
 
-Se você quiser trocar ideias, colaborar em projetos ou simplesmente bater um papo, sinta-se à vontade para me chamar:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsilvamartins30_icons=true&theme=radical)
 
-- **E-mail:** seu-email@dominio.com
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-usuario)
-- **Portfólio:** [seuportfolio.com](https://seuportfolio.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvamartins30=compact&theme=radical)
 
 ---
 
-Obrigad@ por visitar meu perfil! :blush:
+## :handshake: Let's Connect
 
+If you want to exchange ideas, collaborate on projects, or simply have a chat, feel free to reach out:
 
+- **E-mail:** rafel.sm008@gmail.com
+- **LinkedIn:** Rafael Martins(https://www.linkedin.com/in/rafael-martins-716625320/)
+
+---
+
+Thank you for visiting my profile! :blush:
