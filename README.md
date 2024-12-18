@@ -41,10 +41,9 @@ If you want to exchange ideas, collaborate on projects, or simply have a chat, f
 - **LinkedIn:** [Rafael Martins](https://www.linkedin.com/in/rafael-martins-716625320/)
 - **Instagram:** [rsmartins.30](https://instagram.com/rsmartins.30)
 
----
-
 ![Typing Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+---
 
 Thank you for visiting my profile! :blush:
 
