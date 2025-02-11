@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student majoring in information systems at the Federal University of Lavras (UFLA), passionate about technology and problem solving.
 
----
 
 ## :man_technologist: About Me
 
@@ -12,7 +11,6 @@ Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student maj
 - :telescope: **Currently working on**: E-makers Jr. (UFLA´s junior company trainee)
 - :seedling: **Learning:** As a student, I’m currently learning programming logic and front-end development. I aim to build an extensive professional network and pursue bigger and greater opportunities in the job market.
 
----
 
 ## :computer: Technologies and Tools
 
@@ -23,7 +21,6 @@ Here are some of the technologies and tools I have mastered or am currently lear
 - **Tools and Frameworks:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - **Others**: Desktop hardware maintenance and assembly.
 
----
 
 ## :books: GitHub Stats
 
@@ -31,7 +28,6 @@ Here are some of the technologies and tools I have mastered or am currently lear
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvamartins30&layout=compact&theme=radical)
 
----
 
 ## :handshake: Let's Connect
 
@@ -44,7 +40,6 @@ If you want to exchange ideas, collaborate on projects, or simply have a chat, f
   
 ![Typing Cat GIF](https://i.gifer.com/7IjS.gif)
 
----
 
 Thank you for visiting my profile! :blush:
 
