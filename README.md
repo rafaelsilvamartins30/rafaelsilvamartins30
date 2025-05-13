@@ -1,45 +1,54 @@
-# Hello, I'm Rafael Silva Martins. 👋
+# Hello, I'm Rafael Silva Martins 👋
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rsmartins.30)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsilvamartins30)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rsmartins.30)
 
-Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student majoring in information systems at the Federal University of Lavras ([UFLA](https://ufla.br)), passionate about technology and problem solving.
+Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information Systems student at [Federal University of Lavras (UFLA)](https://ufla.br), currently honing my skills at [E-makers Jr.](https://emakersjr.com.br) (UFLA's Junior Enterprise).
 
+## 🚀 About Me
 
-## :man_technologist: About Me
+- **Adaptive Learner**: Excel at quickly mastering new domains - whether it's agribusiness systems, fintech solutions, or emerging technologies
+- **Team Catalyst**: Combine technical skills with emotional intelligence to enhance team performance
+- **Problem-Solver**: Transform complex challenges into elegant technical solutions
+- **Current Focus**: Full-stack development (React/Node) and practical AI integration at [E-makers Jr.](https://emakersjr.com.br)
+- **Core Drive**: Build solutions that create real impact while expanding my professional horizons
 
-- ✍️ **Who am I?** I’m a social and empathetic person, highly skilled in teamwork and often achieving great results. I am also known for my hard work and determination. My main goal is to fulfill my dreams with honesty, as they inspire me to strive to become the best version of myself.
-- :telescope: **Currently working on**: at [E-makers Jr.](https://emakersjr.com.br) (UFLA's Junior Enterprise)
-- :seedling: **Learning:** As a student, I’m currently learning full-stack development and AI integration. I aim to build an extensive professional network and pursue bigger and greater opportunities in the job market.
+## 🛠️ Tech Stack
 
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
-## :computer: Technologies and Tools
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-Here are some of the technologies and tools I have mastered or am currently learning:
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-- **Front-End**: ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- **Back-End**: ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Database](https://img.shields.io/badge/-Database-4479A1?style=flat&logo=postgresql&logoColor=white)
-- **Tools and Frameworks:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- **Others**: Desktop hardware maintenance and assembly.
+### Additional Skills
+🔧 Desktop hardware specialist | 🚀 Fast learner in new domains
 
+## 📈 GitHub Stats
 
-## :books: GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsilvamartins30&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/rafaelsilvamartins30)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsilvamartins30&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvamartins30&layout=compact&theme=radical&langs_count=6)](https://github.com/rafaelsilvamartins30)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsilvamartins30&layout=compact&theme=radical)
+## 📬 Let's Connect
 
+Ready to collaborate or discuss exciting opportunities:
+- 📧 **Email**: [rafael.sm008@gmail.com](mailto:rafael.sm008@gmail.com)
+- 💼 **LinkedIn**: [Rafael Martins](https://www.linkedin.com/in/rafael-martins-716625320/)
+- 📱 **Instagram**: [@rsmartins.30](https://instagram.com/rsmartins.30)
+- 🎮 **Discord**: faelznx777
 
-## :handshake: Let's Connect
+![Coding GIF](https://i.gifer.com/7IjS.gif)
 
-If you want to exchange ideas, collaborate on projects, or simply have a chat, feel free to reach out:
-
-- **E-mail:** rafael.sm008@gmail.com
-- **LinkedIn:** [Rafael Martins](https://www.linkedin.com/in/rafael-martins-716625320/)
-- **Instagram:** [rsmartins.30](https://instagram.com/rsmartins.30)
-- **Discord:** faelznx777
-  
-![Typing Cat GIF](https://i.gifer.com/7IjS.gif)
-
-
-Thank you for visiting my profile! :blush:
-
+*"Turning coffee into code and ideas into impact"* ☕💻
