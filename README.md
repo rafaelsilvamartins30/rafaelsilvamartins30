@@ -49,4 +49,4 @@ Ready to collaborate or discuss exciting opportunities:
 
 ![Coding GIF](https://i.gifer.com/7IjS.gif)
 
-*"Turning coffee into code and ideas into impact"* ☕💻
+Thank you for visiting my profile! :blush:
