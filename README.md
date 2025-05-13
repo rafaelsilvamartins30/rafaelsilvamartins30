@@ -2,13 +2,13 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rsmartins.30)
 
-Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student majoring in information systems at the Federal University of Lavras (UFLA), passionate about technology and problem solving.
+Welcome to my GitHub profile! I'm Rafa, a part-time developer, and a student majoring in information systems at the Federal University of Lavras ([UFLA](https://ufla.br)), passionate about technology and problem solving.
 
 
 ## :man_technologist: About Me
 
 - ✍️ **Who am I?** I’m a social and empathetic person, highly skilled in teamwork and often achieving great results. I am also known for my hard work and determination. My main goal is to fulfill my dreams with honesty, as they inspire me to strive to become the best version of myself.
-- :telescope: **Currently working on**: E-makers Jr. (UFLA´s junior company trainee)
+- :telescope: **Currently working on**: at [E-makers Jr.](https://emakersjr.com.br) (UFLA's Junior Enterprise)
 - :seedling: **Learning:** As a student, I’m currently learning full-stack development and AI integration. I aim to build an extensive professional network and pursue bigger and greater opportunities in the job market.
 
 
