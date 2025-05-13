@@ -6,11 +6,15 @@ Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information S
 
 ## 🚀 About Me
 
-- **Adaptive Learner**: Excel at quickly mastering new domains - whether it's agribusiness systems, fintech solutions, or emerging technologies
-- **Team Catalyst**: Combine technical skills with emotional intelligence to enhance team performance
-- **Problem-Solver**: Transform complex challenges into elegant technical solutions
-- **Current Focus**: Full-stack development (React/Node) and practical AI integration at [E-makers Jr.](https://emakersjr.com.br)
-- **Core Drive**: Build solutions that create real impact while expanding my professional horizons
+- **Quick Learner & Adaptable**: I quickly master new skills and adapt to any context. I thoroughly study organizational needs to deliver real value and actively contribute to my work environment.
+
+- **Team Player**: I combine technical skills with emotional intelligence, being empathetic and collaborative to enhance both my work and my team's performance, maintaining a productive and professional environment.
+
+- **Problem Solver**: I transform complex challenges into efficient solutions, and genuinely enjoy this process. The difficulty only increases my engagement.
+
+- **Current Focus**: Full-Stack Development and AI Integration.
+
+- **Core Motivation**: To develop impactful solutions while growing as a professional and human being, plus building a strong professional network.
 
 ## 🛠️ Tech Stack
 
