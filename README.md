@@ -2,7 +2,8 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rsmartins.30)
 
-Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information Systems student at [Federal University of Lavras (UFLA)](https://ufla.br), currently honing my skills at [E-makers Jr.](https://emakersjr.com.br) (UFLA's Junior Enterprise).
+Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information Systems student at [Federal University of Lavras (UFLA)](https://ufla.br).  
+Currently honing my skills at [E-makers Jr.](https://emakersjr.com.br) (UFLA's Junior Enterprise) and also working as a **Backend Developer** at **FUNDECC**, in the **GEDAI Lab**, a partnership between **IMA (Instituto Mineiro de Agropecuária)** and **UFLA**.
 
 ## 🚀 About Me
 
@@ -24,15 +25,21 @@ Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information S
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 ### Additional Skills
 🔧 Desktop hardware specialist | 🚀 Fast learner in new domains
