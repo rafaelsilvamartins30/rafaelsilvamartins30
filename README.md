@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Silva Martins 👋
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rsmartins.30)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://rafael-portfolio-flame.vercel.app/) 
 
 Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information Systems student at [Federal University of Lavras (UFLA)](https://ufla.br).  
 Currently honing my skills at [E-makers Jr.](https://emakersjr.com.br) (UFLA's Junior Enterprise) and also working as a **Backend Developer** at **FUNDECC**, in the **GEDAI Lab**, a partnership between **IMA (Instituto Mineiro de Agropecuária)** and **UFLA**.
@@ -55,7 +55,6 @@ Currently honing my skills at [E-makers Jr.](https://emakersjr.com.br) (UFLA's J
 Ready to collaborate or discuss exciting opportunities:
 - 📧 **Email**: [rafael.sm008@gmail.com](mailto:rafael.sm008@gmail.com)
 - 💼 **LinkedIn**: [Rafael Martins](https://www.linkedin.com/in/rafael-martins-716625320/)
-- 📱 **Instagram**: [@rsmartins.30](https://instagram.com/rsmartins.30)
 - 🎮 **Discord**: faelznx777
 
 ![Coding GIF](https://i.gifer.com/7IjS.gif)
