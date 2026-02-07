@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Silva Martins 👋
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://rafael-portfolio-flame.vercel.app/) 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/rafaelsilvamartins30) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rafael-martins-716625320/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://rafaelsilvamartins30.github.io/) 
 
 Welcome to my GitHub profile! I'm Rafa, a passionate developer and Information Systems student at [Federal University of Lavras (UFLA)](https://ufla.br).  
 Currently working as a **Backend Developer** at **FUNDECC**, in the **GEDAI Lab**, a partnership between **IMA (Instituto Mineiro de Agropecuária)** and **UFLA**.
