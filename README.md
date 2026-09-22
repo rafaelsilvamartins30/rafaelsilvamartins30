@@ -35,6 +35,6 @@ I'm always open to good conversations. Whether you want to collaborate on an ope
 
 ---
 
-<p align="center">
-  <i>"Context comes before the tool, and simplicity has to be built."</i>
-</p>
+<div align="center">
+  <img src="https://i.gifer.com/7IjS.gif" width="350" alt="Coding Cat" />
+</div>
